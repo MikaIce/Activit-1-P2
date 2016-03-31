@@ -5,3 +5,5 @@ Premier fichier envoyer un simple .c contenant du code
 pour cette premiere sur github
 
 Pour ce deuxieme envoie de fichier sa sera du .c++ pour la forme ;)
+
+voila c est fini je vous souhaite une bonne correction.
